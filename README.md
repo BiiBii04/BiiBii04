@@ -1,31 +1,15 @@
-# Hi, I'm Thinh! 👋
+# Hi, I'm Thinh 👋
 
-I'm a final-year Business & Technology student at RMIT Vietnam, on the Blockchain-Enabled Business track and based in Ho Chi Minh City. I turn fuzzy ideas into something a real person can touch: a pitch, a prototype, and a number someone can act on. Pitching first, building with AI second. Open to internships.
+I'm the one who turns a room's vague idea into a pitch, a prototype, and a number someone can act on.
 
-**Portfolio** → [thinhngo.io.vn](https://thinhngo.io.vn)
+Final-year Business & Technology student at RMIT Vietnam, based in Ho Chi Minh City. I pitch first and I'm learning to build with AI second. That order is deliberate. I'd rather show a rough thing that works than describe a perfect thing that doesn't exist yet.
 
----
+My one rule: no abstraction without a shippable answer attached. If I can't demo it, I probably don't understand it yet.
 
-## 💼 Selected work
+Most of the job is unglamorous. Find the real user pain, not the one that's comfortable to talk about. Frame it until the decision becomes obvious. Build the smallest thing that proves the point, then hand it to someone who's allowed to say no.
 
-🔗 **SCF Protocol · RMIT Capstone · 2026**<br>
-Blockchain supply-chain finance for Vietnam's export suppliers. Designed the Payables Token, ran anchor-buyer interviews, and led the ethics synthesis. Graded HD, top of the course.
+The finished work lives on my portfolio. This page is just where I say hello.
 
-🎓 **Achievia · LotusHacks 2026**<br>
-AI study-abroad guidance for Vietnamese students. Led the pitch, the market research, and the live demo. Top 20 out of 200 teams.
+**Portfolio** → [thinhngo.io.vn](https://thinhngo.io.vn) · **LinkedIn** → [thinhngo0108](https://www.linkedin.com/in/thinhngo0108/)
 
-♿ **WWS · RMIT ADC 2025**<br>
-Web-based workplace simulation for HR teams and people with disabilities. Owned interface design, solution development, and the cost structure. Top 12 semifinalist.
-
-📊 **Machine learning · RMIT ECON1612 · 2025**<br>
-Built a credit-risk model for a Vietnamese microloan lender (full pipeline, SHAP, a screening rule), and an ML expansion lead-list for a parcel network's drop-box footprint.
-
----
-
-## 🛠️ What I work with
-
-Business strategy · Pitching and demos · Blockchain · AI and machine learning · Product design
-
----
-
-**Elsewhere:** [Portfolio](https://thinhngo.io.vn) · [Selected work](https://thinhngo.io.vn/work) · [LinkedIn](https://www.linkedin.com/in/thinhngo0108/)
+Open to internships. If something here fits, say hi.
