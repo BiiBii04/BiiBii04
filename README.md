@@ -2,6 +2,14 @@
 
 I'm a final-year Business & Technology student at RMIT Vietnam, on the Blockchain-Enabled Business track and based in Ho Chi Minh City. I turn fuzzy ideas into something a real person can touch: a pitch, a prototype, and a number someone can act on. Pitching first, building with AI second. Open to internships.
 
+<div align="center">
+  <a href="https://thinhngo.io.vn">
+    <img src="assets/workbench.svg" alt="The Workbench — four projects, one method: SCF Protocol (HD, top of course), Achievia (Top 20 of 200 at LotusHacks), WWS (ADC semifinalist), APEC Water (Distinction)." width="100%">
+  </a>
+</div>
+
+<br/>
+
 **Portfolio** → [thinhngo.io.vn](https://thinhngo.io.vn)
 
 ---
