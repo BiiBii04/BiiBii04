@@ -1,21 +1,13 @@
 # Hi, I'm Thinh 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BiiBii04/BiiBii04/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BiiBii04/BiiBii04/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/BiiBii04/BiiBii04/output/github-snake.svg" />
-</picture>
+Final-year Business & Technology student at RMIT Vietnam. Right now I'm into one thing more than anything else: how people and AI actually work together to build something real.
 
-I'm the one who turns a room's vague idea into a pitch, a prototype, and a number someone can act on.
+Here's what bugs me. AI moves faster than we can keep up with. A few agents read a thousand sources and hand you an answer in minutes. But if you can't see how it got there, you're trusting output you can't check, and you end up back at the start figuring out what happened.
 
-Final-year Business & Technology student at RMIT Vietnam, based in Ho Chi Minh City. I pitch first and I'm learning to build with AI second. That order is deliberate. I'd rather show a rough thing that works than describe a perfect thing that doesn't exist yet.
+So the part I care about is control. Governance, context, knowing what the AI is doing and where things should go. People think AI makes your job easier. From what I've seen, when it's actually working it makes your head busier, not lighter, because now there's more to understand, not less. That's the problem I like sitting with.
 
-My one rule: no abstraction without a shippable answer attached. If I can't demo it, I probably don't understand it yet.
+I got into this by accident of timing. I started uni the same year ChatGPT came out. The usual business tracks didn't do much for me. Watching AI get genuinely useful did.
 
-Most of the job is unglamorous. Find the real user pain, not the one that's comfortable to talk about. Frame it until the decision becomes obvious. Build the smallest thing that proves the point, then hand it to someone who's allowed to say no.
-
-The finished work lives on my portfolio. This page is just where I say hello.
+Still figuring out exactly where I'll land. For now I'm looking for a tech internship where I can actually build.
 
 **Portfolio** → [thinhngo.io.vn](https://thinhngo.io.vn) · **LinkedIn** → [thinhngo0108](https://www.linkedin.com/in/thinhngo0108/)
-
-Open to internships. If something here fits, say hi.
